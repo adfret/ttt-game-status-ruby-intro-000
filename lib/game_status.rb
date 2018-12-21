@@ -106,7 +106,7 @@ if full?(board) == true
 end
 
 
-=======
+
 if won?(board) == true and won?(board) == [0,1,2] #or won?(board) == [1,4,7] or won?(board) == [2,4,6]
   return false
 end
