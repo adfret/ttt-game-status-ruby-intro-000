@@ -76,7 +76,6 @@ end
 
 def draw?(board)
 
-<<<<<<< HEAD
 
   # if full?(board) == true
   #   return true
@@ -124,7 +123,6 @@ if full?(board) == false and won?(board) == false
   return false
 end
 
->>>>>>> c3c4384d58054a886e08a7ebcfa0a602415b9eea
 end
 
 
